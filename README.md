@@ -82,7 +82,7 @@ An interactive Power BI dashboard was created to visualize:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_image/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
