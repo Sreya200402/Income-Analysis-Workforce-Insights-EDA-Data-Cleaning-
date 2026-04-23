@@ -99,6 +99,3 @@ An interactive Power BI dashboard was created to visualize:
 - Dashboard improvements  
 
 ---
-
-## 👩‍💻 Author
-Sreya
